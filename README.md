@@ -1,5 +1,5 @@
 # Part-of-Speech-Tagging
-### Hidden Markov for Part of Speech tagging
+### Hidden Markov for Part of Speech Tagging
 
 In this assignment implemented a Part of Speech Tagging using a Hidden Markov model.
 By using the Viterbi Algorithm predicts POS Tagging of a given sentence.
